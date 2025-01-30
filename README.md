@@ -5,28 +5,28 @@ For providing security there is feature for admin to approve or decline any doct
 # App Screenshots
 <table>
   <tr> 
-    <td><img src = "(https://github.com/Rabby061/Telemedicine-Application/blob/master/images/1.jpg)" height = "500px" width="250px"/></td>
-    <td><img src = "(https://github.com/Rabby061/Telemedicine-Application/blob/master/images/2.jpg)" height = "500px" width="250px"/></td>
-    <td><img src = "(https://github.com/Rabby061/Telemedicine-Application/blob/master/images/3.jpg)" height = "500px" width="250px"/></td>
+    <td><img src = "(https://github.com/Rabby061/Telemedicine-Application/blob/main/images/1.jpg)" height = "500px" width="250px"/></td>
+    <td><img src = "(https://github.com/Rabby061/Telemedicine-Application/blob/main/images/2.jpg)" height = "500px" width="250px"/></td>
+    <td><img src = "(https://github.com/Rabby061/Telemedicine-Application/blob/main/images/3.jpg)" height = "500px" width="250px"/></td>
   </tr>
   <tr> 
-    <td><img src = "(https://github.com/Rabby061/Telemedicine-Application/blob/master/images/4.jpg)" height = "500px" width="250px"/></td>
-    <td><img src = "(https://github.com/Rabby061/Telemedicine-Application/blob/master/images/5.jpg)" height = "500px" width="250px"/></td>
-    <td><img src = "(https://github.com/Rabby061/Telemedicine-Application/blob/master/images/6.jpg)" height = "500px" width="250px"/></td>
+    <td><img src = "(https://github.com/Rabby061/Telemedicine-Application/blob/main/images/4.jpg)" height = "500px" width="250px"/></td>
+    <td><img src = "(https://github.com/Rabby061/Telemedicine-Application/blob/main/images/5.jpg)" height = "500px" width="250px"/></td>
+    <td><img src = "(https://github.com/Rabby061/Telemedicine-Application/blob/main/images/6.jpg)" height = "500px" width="250px"/></td>
   </tr>
   <tr> 
-    <td><img src = "(https://github.com/Rabby061/Telemedicine-Application/blob/master/images/7.jpg)" height = "500px" width="250px"/></td>
-    <td><img src = "(https://github.com/Rabby061/Telemedicine-Application/blob/master/images/8.jpg)" height = "500px" width="250px"/></td>
-    <td><img src = "(https://github.com/Rabby061/Telemedicine-Application/blob/master/images/9.jpg)" height = "500px" width="250px"/></td>
+    <td><img src = "(https://github.com/Rabby061/Telemedicine-Application/blob/main/images/7.jpg)" height = "500px" width="250px"/></td>
+    <td><img src = "(https://github.com/Rabby061/Telemedicine-Application/blob/main/images/8.jpg)" height = "500px" width="250px"/></td>
+    <td><img src = "(https://github.com/Rabby061/Telemedicine-Application/blob/main/images/9.jpg)" height = "500px" width="250px"/></td>
   </tr>
   <tr> 
-    <td><img src = "(https://github.com/Rabby061/Telemedicine-Application/blob/master/images/11.jpg)" height = "500px" width="250px"/></td>
-    <td><img src = "(https://github.com/Rabby061/Telemedicine-Application/blob/master/images/12.jpg)" height = "500px" width="250px"/></td>
-    <td><img src = "(https://github.com/Rabby061/Telemedicine-Application/blob/master/images/13.jpg)" height = "500px" width="250px"/></td>
+    <td><img src = "(https://github.com/Rabby061/Telemedicine-Application/blob/main/images/11.jpg)" height = "500px" width="250px"/></td>
+    <td><img src = "(https://github.com/Rabby061/Telemedicine-Application/blob/main/images/12.jpg)" height = "500px" width="250px"/></td>
+    <td><img src = "(https://github.com/Rabby061/Telemedicine-Application/blob/main/images/13.jpg)" height = "500px" width="250px"/></td>
   </tr>
   <tr> 
-    <td><img src = "(https://github.com/Rabby061/Telemedicine-Application/blob/master/images/14.jpg)" height = "500px" width="250px"/></td>
-    <td><img src = "(https://github.com/Rabby061/Telemedicine-Application/blob/master/images/15.jpg)" height = "500px" width="250px"/></td>
-    <td><img src = "(https://github.com/Rabby061/Telemedicine-Application/blob/master/images/16.jpg)" height = "500px" width="250px"/></td>
+    <td><img src = "(https://github.com/Rabby061/Telemedicine-Application/blob/main/images/14.jpg)" height = "500px" width="250px"/></td>
+    <td><img src = "(https://github.com/Rabby061/Telemedicine-Application/blob/main/images/15.jpg)" height = "500px" width="250px"/></td>
+    <td><img src = "(https://github.com/Rabby061/Telemedicine-Application/blob/main/images/16.jpg)" height = "500px" width="250px"/></td>
   </tr>
 </table>
