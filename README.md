@@ -5,7 +5,7 @@ For providing security there is feature for admin to approve or decline any doct
 # App Screenshots
 <table>
   <tr> 
-    <td><img src = "(https://github.com/Rabby061/Telemedicine-Application/blob/main/images/1.jpg)" height = "500px" width="250px"/></td>
+    <td><img src = "images/1.jpg" height = "500px" width="250px"/></td>
     <td><img src = "(https://github.com/Rabby061/Telemedicine-Application/blob/main/images/2.jpg)" height = "500px" width="250px"/></td>
     <td><img src = "(https://github.com/Rabby061/Telemedicine-Application/blob/main/images/3.jpg)" height = "500px" width="250px"/></td>
   </tr>
